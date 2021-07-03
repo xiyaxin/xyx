@@ -1,0 +1,85 @@
+/* 内容区1 */
+#container-1 {
+    margin: 20px 20px 0 20px;
+    float: left;
+    width: 100%;
+}
+/* 内容区1中的inner1 */
+.inner1 {
+    margin: 0 50px;
+    padding: 0;
+    height: 275px;
+    width: 900px;
+    float: left;
+}
+.inner1-1 {
+    margin: 25px 50px;
+    height: auto;
+    float: left;
+}
+.inner1-1 img {
+    height: 225px;
+    width: 350px;
+    border: 6px solid #F3EDD5; 
+}
+.inner1-2 {
+    float: left;
+    width: 375px;
+    margin: 25px;
+}
+.inner1-2 p {
+    line-height: 24px;
+    font-family: "Microsoft Yahei";
+    font-size: 14px;
+    padding: 5px;
+    border: 3px dashed #F3EDD5; 
+}
+.inner1-3 {
+    float: left;
+    width: auto;
+}
+.inner1-3 p {
+    font-family: "Microsoft Yahei";
+    font-size: 14px;
+}
+/* 内容区2 */
+#container-2 {
+    margin: 20px 0 0 20px;
+    float: left;
+    width: 100%;
+}
+/* 表格 */
+table {
+    width: 100%;
+}
+table td {
+    padding: 2px 0 2px 20px;
+    height: 32px;
+}
+.inner_head {
+    font-size: 18px;
+    font-weight: bold;
+    color: #106f66;
+    line-height: 30px;
+}
+/* 内容区2中的inner2 */
+.inner2 {
+    margin: 0 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    height: 400px;
+    width: 900px;
+    float: left;
+}
+.li_item {
+    font-family: "Microsoft Yahei";
+    font-size: 14px;
+    line-height: 24px;
+}
+.inner2-1 {
+    margin: 10px 30px;
+    padding: 0;
+    height: auto;
+    width: 900px;
+    float: left;
+}
