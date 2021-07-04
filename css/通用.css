@@ -81,7 +81,7 @@ h1 {
 /* 不同的界面使用不同的背景图片 */
 #container1 {
     height: 820px;
-    background: url("../img/background1.png") no-repeat;
+    background: url("https://github.com/xiyaxin/xyx/img/background1.png") no-repeat;
 }
 #container2 {
     background: url("../img/background2.png") no-repeat;
